@@ -1,56 +1,1 @@
 'NoneType' object has no attribute 'cadam32bit_grad_fp32'
-> INFO    Namespace(version=False, revision=None, tokenizer=None, image_path='/Users/arimichelangelo/Master-thesis/Comics-GenAI/data', class_image_path=None, prompt='An image of Piglet', class_prompt=None, num_class_images=100, class_labels_conditioning=None, prior_preservation=None, prior_loss_weight=1.0, resolution=1024, center_crop=None, train_text_encoder=None, sample_batch_size=4, num_steps=5, checkpointing_steps=100000, resume_from_checkpoint=None, scale_lr=None, scheduler='constant', warmup_steps=0, num_cycles=1, lr_power=1.0, dataloader_num_workers=0, use_8bit_adam=None, adam_beta1=0.9, adam_beta2=0.999, adam_weight_decay=0.01, adam_epsilon=1e-08, max_grad_norm=1.0, allow_tf32=None, prior_generation_precision=None, local_rank=-1, xformers=None, pre_compute_text_embeddings=None, tokenizer_max_length=None, text_encoder_use_attention_mask=None, rank=4, xl=None, mixed_precision='no', validation_prompt=None, num_validation_images=4, validation_epochs=50, checkpoints_total_limit=None, validation_images=None, logging=None, train=None, deploy=None, inference=None, username=None, backend='local-cli', token='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', repo_id='maelysjb/sdxl-lora-piglet', push_to_hub=True, model='stabilityai/stable-diffusion-xl-base-1.0', project_name='Dreambooth-SDXL', seed=42, epochs=1, gradient_accumulation=1, disable_gradient_checkpointing=None, lr=0.0001, log='none', data_path=None, train_split='train', valid_split=None, batch_size=1, func=<function run_dreambooth_command_factory at 0x17b4e97e0>)
-> INFO    Running DreamBooth Training
-> WARNING Parameters not supplied by user and set to default: vae_model
-> WARNING Parameters supplied but not used: func, valid_split, deploy, train, inference, backend, log, version, data_path, train_split
-> INFO    Dataset: Dreambooth-SDXL (dreambooth)
-
-> INFO    Saving concept images
-> INFO    /Users/arimichelangelo/Master-thesis/Comics-GenAI/data/download-3.jpg
-> INFO    Saving concept images
-> INFO    /Users/arimichelangelo/Master-thesis/Comics-GenAI/data/download-2.jpg
-> INFO    Saving concept images
-> INFO    /Users/arimichelangelo/Master-thesis/Comics-GenAI/data/download-1.jpg
-> INFO    Saving concept images
-> INFO    /Users/arimichelangelo/Master-thesis/Comics-GenAI/data/download-5.jpg
-> INFO    Saving concept images
-> INFO    /Users/arimichelangelo/Master-thesis/Comics-GenAI/data/download-4.jpg
-> INFO    Starting local training...
-> INFO    {"model":"stabilityai/stable-diffusion-xl-base-1.0","vae_model":null,"revision":null,"tokenizer":null,"image_path":"Dreambooth-SDXL/autotrain-data","class_image_path":null,"prompt":"An image of Piglet","class_prompt":null,"num_class_images":100,"class_labels_conditioning":null,"prior_preservation":false,"prior_loss_weight":1.0,"project_name":"Dreambooth-SDXL","seed":42,"resolution":1024,"center_crop":false,"train_text_encoder":false,"batch_size":1,"sample_batch_size":4,"epochs":1,"num_steps":5,"checkpointing_steps":100000,"resume_from_checkpoint":null,"gradient_accumulation":1,"disable_gradient_checkpointing":false,"lr":0.0001,"scale_lr":false,"scheduler":"constant","warmup_steps":0,"num_cycles":1,"lr_power":1.0,"dataloader_num_workers":0,"use_8bit_adam":false,"adam_beta1":0.9,"adam_beta2":0.999,"adam_weight_decay":0.01,"adam_epsilon":1e-8,"max_grad_norm":1.0,"allow_tf32":false,"prior_generation_precision":null,"local_rank":-1,"xformers":false,"pre_compute_text_embeddings":false,"tokenizer_max_length":null,"text_encoder_use_attention_mask":false,"rank":4,"xl":true,"mixed_precision":"no","token":"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","repo_id":"maelysjb/sdxl-lora-piglet","push_to_hub":true,"username":null,"validation_prompt":null,"num_validation_images":4,"validation_epochs":50,"checkpoints_total_limit":null,"validation_images":null,"logging":false}
-> INFO    ['python', '-m', 'autotrain.trainers.dreambooth', '--training_config', 'Dreambooth-SDXL/training_params.json']
-/Users/arimichelangelo/anaconda3/envs/autotrain/lib/python3.10/site-packages/diffusers/utils/outputs.py:63: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
-  torch.utils._pytree._register_pytree_node(
-/Users/arimichelangelo/anaconda3/envs/autotrain/lib/python3.10/site-packages/diffusers/utils/outputs.py:63: UserWarning: torch.utils._pytree._register_pytree_node is deprecated. Please use torch.utils._pytree.register_pytree_node instead.
-  torch.utils._pytree._register_pytree_node(
-You are using a model of type clip_text_model to instantiate a model of type . This is not supported for all configurations of models and can yield errors.
-You are using a model of type clip_text_model to instantiate a model of type . This is not supported for all configurations of models and can yield errors.
-{'thresholding', 'rescale_betas_zero_snr', 'dynamic_thresholding_ratio', 'clip_sample_range', 'variance_type'} was not found in config. Values will be initialized to default values.
-{'reverse_transformer_layers_per_block', 'dropout', 'attention_type'} was not found in config. Values will be initialized to default values.
-/Users/arimichelangelo/anaconda3/envs/autotrain/lib/python3.10/site-packages/bitsandbytes/cextension.py:34: UserWarning: The installed version of bitsandbytes was compiled without GPU support. 8-bit optimizers, 8-bit multiplication, and GPU quantization are unavailable.
-  warn("The installed version of bitsandbytes was compiled without GPU support. "
-🚀 INFO   | 2024-04-12 12:52:44 | autotrain.trainers.dreambooth.train_xl:main:784 - ***** Running training *****
-🚀 INFO   | 2024-04-12 12:52:44 | autotrain.trainers.dreambooth.train_xl:main:785 -   Num examples = 5
-🚀 INFO   | 2024-04-12 12:52:44 | autotrain.trainers.dreambooth.train_xl:main:786 -   Num batches each epoch = 5
-🚀 INFO   | 2024-04-12 12:52:44 | autotrain.trainers.dreambooth.train_xl:main:787 -   Num Epochs = 1
-🚀 INFO   | 2024-04-12 12:52:44 | autotrain.trainers.dreambooth.train_xl:main:788 -   Instantaneous batch size per device = 1
-🚀 INFO   | 2024-04-12 12:52:44 | autotrain.trainers.dreambooth.train_xl:main:789 -   Total train batch size (w. parallel, distributed & accumulation) = 1
-🚀 INFO   | 2024-04-12 12:52:44 | autotrain.trainers.dreambooth.train_xl:main:790 -   Gradient Accumulation steps = 1
-🚀 INFO   | 2024-04-12 12:52:44 | autotrain.trainers.dreambooth.train_xl:main:791 -   Total optimization steps = 5
-Steps:   0%|          | 0/5 [00:00<?, ?it/s]Steps:  20%|██        | 1/5 [00:23<01:32, 23.08s/it]Steps:  20%|██        | 1/5 [00:23<01:32, 23.08s/it, loss=0.136, lr=0.0001]Steps:  40%|████      | 2/5 [00:48<01:12, 24.26s/it, loss=0.136, lr=0.0001]Steps:  40%|████      | 2/5 [00:48<01:12, 24.26s/it, loss=0.00311, lr=0.0001]Steps:  60%|██████    | 3/5 [01:13<00:49, 24.69s/it, loss=0.00311, lr=0.0001]Steps:  60%|██████    | 3/5 [01:13<00:49, 24.69s/it, loss=0.0677, lr=0.0001] Steps:  80%|████████  | 4/5 [02:17<00:40, 40.36s/it, loss=0.0677, lr=0.0001]Steps:  80%|████████  | 4/5 [02:17<00:40, 40.36s/it, loss=0.283, lr=0.0001] Steps: 100%|██████████| 5/5 [03:31<00:00, 52.43s/it, loss=0.283, lr=0.0001]Steps: 100%|██████████| 5/5 [03:31<00:00, 52.43s/it, loss=0.0348, lr=0.0001]Model weights saved in Dreambooth-SDXL/pytorch_lora_weights.safetensors
-{'image_encoder', 'feature_extractor'} was not found in config. Values will be initialized to default values.
-
-Loading pipeline components...:   0%|          | 0/7 [00:00<?, ?it/s][A{'reverse_transformer_layers_per_block', 'dropout', 'attention_type'} was not found in config. Values will be initialized to default values.
-Loaded unet as UNet2DConditionModel from `unet` subfolder of stabilityai/stable-diffusion-xl-base-1.0.
-
-Loading pipeline components...:  14%|█▍        | 1/7 [00:00<00:01,  3.02it/s][ALoaded text_encoder_2 as CLIPTextModelWithProjection from `text_encoder_2` subfolder of stabilityai/stable-diffusion-xl-base-1.0.
-
-Loading pipeline components...:  29%|██▊       | 2/7 [00:00<00:01,  3.47it/s][ALoaded tokenizer as CLIPTokenizer from `tokenizer` subfolder of stabilityai/stable-diffusion-xl-base-1.0.
-Loaded text_encoder as CLIPTextModel from `text_encoder` subfolder of stabilityai/stable-diffusion-xl-base-1.0.
-
-Loading pipeline components...:  57%|█████▋    | 4/7 [00:00<00:00,  6.75it/s][ALoaded tokenizer_2 as CLIPTokenizer from `tokenizer_2` subfolder of stabilityai/stable-diffusion-xl-base-1.0.
-{'sigma_min', 'timestep_type', 'sigma_max', 'rescale_betas_zero_snr'} was not found in config. Values will be initialized to default values.
-Loaded scheduler as EulerDiscreteScheduler from `scheduler` subfolder of stabilityai/stable-diffusion-xl-base-1.0.
-Loading pipeline components...: 100%|██████████| 7/7 [00:00<00:00,  9.36it/s]
-{'thresholding', 'lambda_min_clipped', 'dynamic_thresholding_ratio', 'solver_type', 'solver_order', 'final_sigmas_type', 'euler_at_final', 'use_lu_lambdas', 'algorithm_type', 'lower_order_final', 'variance_type'} was not found in config. Values will be initialized to default values.
-Loading unet.
-Steps: 100%|██████████| 5/5 [03:33<00:00, 42.80s/it, loss=0.0348, lr=0.0001]
