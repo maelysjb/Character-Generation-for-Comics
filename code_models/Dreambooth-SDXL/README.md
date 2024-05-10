@@ -10,7 +10,7 @@ tags:
 - template:sd-lora
 
 base_model: stabilityai/stable-diffusion-xl-base-1.0
-instance_prompt: An image of Feli
+instance_prompt: An image of unicorn girl in a onesie
 license: openrail++
 ---
     
@@ -30,7 +30,7 @@ Special VAE used for training: None.
 
 ## Trigger words
 
-You should use An image of Feli to trigger the image generation.
+You should use An image of unicorn girl in a onesie to trigger the image generation.
 
 ## Download model
 
