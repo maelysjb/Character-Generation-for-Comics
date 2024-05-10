@@ -10,7 +10,7 @@ tags:
 - template:sd-lora
 
 base_model: stabilityai/stable-diffusion-xl-base-1.0
-instance_prompt: An image of Piglet
+instance_prompt: An image of Feli
 license: openrail++
 ---
     
@@ -30,7 +30,7 @@ Special VAE used for training: None.
 
 ## Trigger words
 
-You should use An image of Piglet to trigger the image generation.
+You should use An image of Feli to trigger the image generation.
 
 ## Download model
 
