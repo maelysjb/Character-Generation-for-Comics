@@ -14,13 +14,13 @@ instance_prompt: An image of Feli
 license: openrail++
 ---
     
-# AutoTrain SDXL LoRA DreamBooth - maelysjb/sdxl-lora-piglet
+# AutoTrain SDXL LoRA DreamBooth - arimiche/trial_model
 
 <Gallery />
 
 ## Model description
 
-These are maelysjb/sdxl-lora-piglet LoRA adaption weights for stabilityai/stable-diffusion-xl-base-1.0.
+These are arimiche/trial_model LoRA adaption weights for stabilityai/stable-diffusion-xl-base-1.0.
 
 The weights were trained  using [DreamBooth](https://dreambooth.github.io/).
 
@@ -36,5 +36,5 @@ You should use An image of Feli to trigger the image generation.
 
 Weights for this model are available in Safetensors format.
 
-[Download](maelysjb/sdxl-lora-piglet/tree/main) them in the Files & versions tab.
+[Download](arimiche/trial_model/tree/main) them in the Files & versions tab.
 
