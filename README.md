@@ -40,6 +40,7 @@ For any additional questions, feel free to reach out to the authors of this proj
 
 
 ## How to navigate the repository
+```bash 
 ├── 1. Data
 │   ├── sks-01.jpg
 │   ├── sks-02.jpg
@@ -69,3 +70,4 @@ For any additional questions, feel free to reach out to the authors of this proj
 │   ├── Report.pdf
 │   └── Presentation.pdf
 └── README.md
+```
