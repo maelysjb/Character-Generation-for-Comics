@@ -6,7 +6,7 @@ This is our final Master's thesis for the Data Science MSc program at the Barcel
 ## Contact the Authors
 For any additional questions, feel free to reach out to the authors of this project:
 * Maëlys Boudier (maelys.boudier@bse.eu)
-* Natalia Beltràn (natalia.beltran@bse.eu)
+* Natalia Beltrán (natalia.beltran@bse.eu)
 * Arianna Michelangelo (arianna.michelangelo@bse.eu)
 
 
