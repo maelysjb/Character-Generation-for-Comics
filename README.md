@@ -12,13 +12,19 @@ For any additional questions, feel free to reach out to the authors of this proj
 
 ## General Set-Up
 
-**Set-Up Model on Hugging Face** 
+**Set-Up Model and Dataset on Hugging Face:** To facilitate saving model weights, we created an account on Hugging Face (which is free) and created a "New Model" with the name of our choice. Whenever we ran codes we could manually upload weights to this model space or sometimes directly save it in the hugging face directory as opposed to our local directory. We also set up a "New Dataset" with our training images, this is a useful alternative to using the images on the local directory as we tested many methods to run our codes (Google Colab, different Local Computers, Kaggle). Having a dataset on Hugging Face meant that we could also directly access our dataset without having to update file paths. 
 
-**Set-Up Dataset on Hugging Face** 
+**Secret Key on Hugging Face:** We chose to have private models and datasets on Hugging Face. As such, we were able to access them using a secret key called "Access Tokens" in the account parameters on Hugging Face. Make sure that you use a token of type "WRITE" if you intend on directly saving your models to the model directory on Hugging Face. 
 
-**Secret Key on Hugging Face** 
+*Note:* You can also save your keys in Kaggle in a hidden User Secrets and load them secretly so you avoid accidentally sharing your private secret keys.
 
-**GPU on Kaggle** 
+    """ 
+from kaggle_secrets import UserSecretsClient
+user_secrets = UserSecretsClient()
+secret_value_0 = user_secrets.get_secret("HF_TOKEN")
+    """ 
+
+**GPU on Kaggle:** 
 
 
 ## Baseline Models
