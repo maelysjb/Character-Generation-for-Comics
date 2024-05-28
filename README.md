@@ -25,7 +25,7 @@ secret_value_0 = user_secrets.get_secret("HF_TOKEN")
 ``` 
 
 **GPU on Kaggle:** 
-
+After struggling with GPU usage, we decided to run our computationally demanding codes on Kaggle which enables each user to ahve 30 hours a week of GPU usage. We primarily used the P100 GPU which made our LoRA and Dream Booth codes over 10 times faster than on our laptops.
 
 ## Baseline Models
 
