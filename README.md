@@ -18,11 +18,11 @@ For any additional questions, feel free to reach out to the authors of this proj
 
 *Note:* You can also save your keys in Kaggle in a hidden User Secrets and load them secretly so you avoid accidentally sharing your private secret keys.
 
-    """ 
+```
 from kaggle_secrets import UserSecretsClient
 user_secrets = UserSecretsClient()
 secret_value_0 = user_secrets.get_secret("HF_TOKEN")
-    """ 
+``` 
 
 **GPU on Kaggle:** 
 
