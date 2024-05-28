@@ -56,8 +56,8 @@ After struggling with GPU usage, we decided to run our computationally demanding
 │   └── sks-06.jpg
 ├── 2. Descriptive Statistics
 │   ├── Image_DataOverview.ipynb
-│   ├── Nat
-│   └── Ari
+│   ├── Image_ColorBreakdown.ipynb
+│   └── Image_HSV.ipynb
 ├── 3. Baseline Models
 │   ├── GAN Models
 │   │   ├── GAN_Model_Version1.ipynb
