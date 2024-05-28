@@ -69,7 +69,8 @@ After struggling with GPU usage, we decided to run our computationally demanding
 ├── 4. Fine Tuning Models
 │   ├── DreamBooth.ipynb
 │   ├── LoRA.ipynb
-│   └── DreamBooth-LoRA.ipynb
+│   ├── DreamBooth-LoRA.ipynb
+│   └── DreamBooth-LoRA-Inference.ipynb
 ├── 5. Documents
 │   ├── Latex Report
 │   │   └── Thesis_Masters_GENAI.tex
