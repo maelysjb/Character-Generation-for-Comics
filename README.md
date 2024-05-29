@@ -67,12 +67,15 @@ After struggling with GPU usage, we decided to run our computationally demanding
 │   │   └── Diffusion_256x256.ipynb
 │   └── Stable-Diffusion-XL-Prompt.ipynb
 ├── 4. Fine Tuning Models
-│   ├── DreamBooth.ipynb
-│   ├── DreamBooth_Inference.ipynb
-│   ├── DreamBooth_GoogleColab.ipynb
-│   ├── LoRA.ipynb
-│   ├── DreamBooth-LoRA.ipynb
-│   └── DreamBooth-LoRA-Inference.ipynb
+│   ├── DreamBooth
+│   │   ├── DreamBooth.ipynb
+│   │   ├── DreamBooth_Inference.ipynb
+│   │   └── DreamBooth_GoogleColab.ipynb
+│   ├── LoRA
+│   │   └──LoRA.ipynb
+│   └── DreamBooth-LoRA
+│   │   ├── DreamBooth-LoRA.ipynb
+│   │   └── DreamBooth-LoRA-Inference.ipynb
 ├── 5. Documents
 │   ├── Latex Report
 │   │   └── Thesis_Masters_GENAI.tex
@@ -85,7 +88,7 @@ After struggling with GPU usage, we decided to run our computationally demanding
 │   │   ├── DreamBooth800
 │   │   ├── DreamBooth1000
 │   │   ├── DreamBooth1500
-│   │   └── DreamBooth2000
+│   │   ├── DreamBooth2000
 │   ├── DreamBooth-LoRA
 │   │   ├── 100_steps
 │   │   ├── 500_steps
