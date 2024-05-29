@@ -68,6 +68,8 @@ After struggling with GPU usage, we decided to run our computationally demanding
 │   └── Stable-Diffusion-XL-Prompt.ipynb
 ├── 4. Fine Tuning Models
 │   ├── DreamBooth.ipynb
+│   ├── DreamBooth_Inference.ipynb
+│   ├── DreamBooth_GoogleColab.ipynb
 │   ├── LoRA.ipynb
 │   ├── DreamBooth-LoRA.ipynb
 │   └── DreamBooth-LoRA-Inference.ipynb
