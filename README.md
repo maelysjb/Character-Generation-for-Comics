@@ -80,13 +80,22 @@ After struggling with GPU usage, we decided to run our computationally demanding
 │   └── Presentation.pdf
 ├── 6. Generated Images
 │   ├── DreamBooth
-│   │   └── DreamBooth200
-│   │   └── DreamBooth600
-│   │   └── DreamBooth800
-│   │   └── DreamBooth1000
-│   │   └── DreamBooth1500
+│   │   ├── DreamBooth200
+│   │   ├── DreamBooth600
+│   │   ├── DreamBooth800
+│   │   ├── DreamBooth1000
+│   │   ├── DreamBooth1500
 │   │   └── DreamBooth2000
 │   ├── DreamBooth-LoRA
-│   ├── LoRA
+│   │   ├── 100_steps
+│   │   ├── 500_steps
+│   │   ├── 800_steps
+│   │   ├── 1000_steps
+│   │   ├── 1200_steps
+│   │   ├── 1500_steps
+│   │   ├── 1800_steps
+│   │   ├── 2000_steps
+│   │   └── Gif_outputs
+│   └──  LoRA
 └── README.md
 ```
