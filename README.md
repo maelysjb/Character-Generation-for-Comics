@@ -76,5 +76,15 @@ After struggling with GPU usage, we decided to run our computationally demanding
 │   │   └── Thesis_Masters_GENAI.tex
 │   ├── Report.pdf
 │   └── Presentation.pdf
+├── 6. Generated Images
+│   ├── DreamBooth
+│   │   └── DreamBooth200
+│   │   └── DreamBooth600
+│   │   └── DreamBooth800
+│   │   └── DreamBooth1000
+│   │   └── DreamBooth1500
+│   │   └── DreamBooth2000
+│   ├── DreamBooth-LoRA
+│   ├── LoRA
 └── README.md
 ```
