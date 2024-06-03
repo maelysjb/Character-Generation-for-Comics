@@ -88,7 +88,7 @@ After struggling with GPU usage, we decided to run our computationally demanding
 │   │   ├── DreamBooth800
 │   │   ├── DreamBooth1000
 │   │   ├── DreamBooth1500
-│   │   ├── DreamBooth2000
+│   │   └── DreamBooth2000
 │   ├── DreamBooth-LoRA
 │   │   ├── 100_steps
 │   │   ├── 500_steps
