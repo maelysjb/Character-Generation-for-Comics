@@ -37,9 +37,9 @@ After struggling with GPU usage, we decided to run our computationally demanding
 ## Baseline Models
 
 **GAN Model** 
-
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/4b4bae90-36ad-40e8-91ac-8be6219b89dc" width="100"> 
 **Diffusion Model** 
-
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/5e3d19e8-046f-48b0-8f77-9f20f6ae904e" width="100"> 
 **Stable Diffusion Model** 
 
 
@@ -51,6 +51,7 @@ After struggling with GPU usage, we decided to run our computationally demanding
 
 **DreamBooth + LoRA Model** 
 
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/f122b751-fa60-44c7-9b87-f0192e65b9f5" width="100"> 
 
 ## How to navigate the repository
 ```bash 
