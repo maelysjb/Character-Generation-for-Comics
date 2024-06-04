@@ -3,12 +3,12 @@
 ## About the Project
 This is our final Master's thesis for the Data Science MSc program at the Barcelona School of Economics (BSE). The goal is to create variations of a new character designed by an artist using computational image generation. We collaborated with Jordane Meignaud (Instagram: @surunnuagecreation), who invented a character and provided six unique images of this character. All rights regarding the image belong to Jordane Meignaud, and any other uses of these images must be approved by her. Using these six images (or fewer) and various models, particularly Diffusion Models, we show that fine-tuning is the best method for addressing data scarcity and generating new poses for the character. 
 
-<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/84bb4ad8-85ec-4368-9ff7-6824e9acd587" width="250"> 
-<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/8d53ead8-1f7b-47f4-8b56-37c94f46992a" width="250"> 
-<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/8aba99b7-6f23-4868-a885-aa9b52604126" width="250"> 
-<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d92a7656-eb92-4202-98f7-e3eb5b4a46e3" width="250">
-<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/0c79b782-9bbb-476b-9c97-e7e2810d150c" width="250">
-<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/1c81c33b-43bd-4c8e-8084-1609be731d9f" width="250">
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/84bb4ad8-85ec-4368-9ff7-6824e9acd587" width="100"> 
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/8d53ead8-1f7b-47f4-8b56-37c94f46992a" width="100"> 
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/8aba99b7-6f23-4868-a885-aa9b52604126" width="100"> 
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d92a7656-eb92-4202-98f7-e3eb5b4a46e3" width="100">
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/0c79b782-9bbb-476b-9c97-e7e2810d150c" width="100">
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/1c81c33b-43bd-4c8e-8084-1609be731d9f" width="100">
 
 ## Contact the Authors
 For any additional questions, feel free to reach out to the authors of this project:
