@@ -56,6 +56,7 @@ Our attempt to generate a baseline using a GAN with just 6 images demonstrated t
 
 Our next attempt at establishing a baseline involved training a full diffusion model, which operates through a noising and denoising process. While this approach also failed to achieve conclusive results, it occasionally generated a few blue pixels similar to the colors in our training images. This indicated some potential but reamined inconclusive.
 
+<img width="200" alt="diffusion_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/516cbe72-f2d0-42c6-b633-be366272de12">
 <img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/5e3d19e8-046f-48b0-8f77-9f20f6ae904e" width="200"> 
 
 **Stable Diffusion Model** 
@@ -73,6 +74,7 @@ Our final attempt at establishing a baseline involved using a fully trained Stab
 ## Tuning the DreamBooth + LoRA Model 
 
 **Training Steps** 
+
 <img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/f122b751-fa60-44c7-9b87-f0192e65b9f5" width="300"> 
 
 **Learning Rate** 
