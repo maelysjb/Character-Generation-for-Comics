@@ -51,7 +51,7 @@ We explored available literature and found limited research on comic character g
 Our attempt to generate a baseline using a GAN with just 6 images demonstrated the inadequacy of this approach. The model failed to converge, highlighting the necessity for alternative methods or larger datasets.
 
 <img width="450" alt="GAN_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/0a9c7657-b7d2-464a-aa6e-0ca24300ba40">
-<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/4b4bae90-36ad-40e8-91ac-8be6219b89dc" width="350"> 
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/4b4bae90-36ad-40e8-91ac-8be6219b89dc" width="200"> 
 
 **Diffusion Model** 
 
@@ -70,13 +70,13 @@ Our final attempt at establishing a baseline involved using a fully trained Stab
 
 **DreamBooth Model** 
 
-<img width="450" alt="Dream_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/2eff1455-3e96-41ff-8310-722698ee8752">
+<img width="300" alt="Dream_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/2eff1455-3e96-41ff-8310-722698ee8752">
 
 **LoRA Model** 
 
 **DreamBooth + LoRA Model** 
 
-<img width="450" alt="dreamLora_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d3539727-022e-4d0c-8d7f-1d95ab72851d">
+<img width="300" alt="dreamLora_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d3539727-022e-4d0c-8d7f-1d95ab72851d">
 
 ## Tuning the DreamBooth + LoRA Model 
 
