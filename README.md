@@ -118,6 +118,6 @@ Our final attempt at establishing a baseline involved using a fully trained Stab
 ├── 6. Generated Images
 │   ├── DreamBooth
 │   ├── DreamBooth-LoRA
-│   └──  LoRA
+│   └── LoRA
 └── README.md
 ```
