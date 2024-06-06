@@ -70,7 +70,14 @@ Our final attempt at establishing a baseline involved using a fully trained Stab
 
 **DreamBooth + LoRA Model** 
 
+## Tuning the DreamBooth + LoRA Model 
+
+**Training Steps** 
 <img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/f122b751-fa60-44c7-9b87-f0192e65b9f5" width="300"> 
+
+**Learning Rate** 
+
+**Inference Steps** 
 
 ## How to navigate the repository
 ```bash 
