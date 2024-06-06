@@ -66,6 +66,10 @@ Our next attempt at establishing a baseline involved training a full diffusion m
 
 Our final attempt at establishing a baseline involved using a fully trained Stable Diffusion Model with a few carefully crafted prompts to approximate our training images. This approach allowed us to evaluate the potential visual quality we could achieve, even though the generated images did not perfectly capture all the specific features of our training data.
 
+<img width="200" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/46f8bdc6-37cc-4568-a15e-79f5f4bb2491">
+
+
+
 ## Fine Tuned Models
 
 **DreamBooth Model** 
