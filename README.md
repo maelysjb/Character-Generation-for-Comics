@@ -38,6 +38,18 @@ After struggling with GPU usage, we decided to run our computationally demanding
 
 **GAN Model** 
 
+We explored available literature and found limited research on comic character generation, particularly with scarce data from previous years. While Generative Adversarial Networks (GANs) have been used for image generation (refer to Marnix Verduyn's paper), they face significant challenges with less than 100k images. Specifically, the discriminator tends to overfit while the generator underfits (as discussed in the Nvidia blog paper).
+
+1. **Comic Art Generation using GANs** by ir. Marnix Verduyn  
+   Academic year 2021 – 2022  
+   [Read the paper](https://www.nix.be/assets/pdf/Masterproef_MarnixVerduyn_KUL_MAI_2022.pdf)
+
+2. **NVIDIA Research Achieves AI Training Breakthrough Using Limited Datasets**  
+   December 7, 2020 by Isha Salian  
+   [Read the blog](https://blogs.nvidia.com/blog/neurips-research-limited-data-gan/#:~:text=It%20typically%20takes%2050%2C000%20to,falter%20at%20producing%20realistic%20results.)
+
+Our attempt to generate a baseline using a GAN with just 6 images demonstrated the inadequacy of this approach. The model failed to converge, highlighting the necessity for alternative methods or larger datasets.
+
 <img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/4b4bae90-36ad-40e8-91ac-8be6219b89dc" width="100"> 
 
 **Diffusion Model** 
