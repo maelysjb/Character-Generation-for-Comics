@@ -54,10 +54,13 @@ Our attempt to generate a baseline using a GAN with just 6 images demonstrated t
 
 **Diffusion Model** 
 
+Our next attempt at establishing a baseline involved training a full diffusion model, which operates through a noising and denoising process. While this approach also failed to achieve conclusive results, it occasionally generated a few blue pixels similar to the colors in our training images. This indicated some potential but reamined inconclusive.
+
 <img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/5e3d19e8-046f-48b0-8f77-9f20f6ae904e" width="200"> 
 
 **Stable Diffusion Model** 
 
+Our final attempt at establishing a baseline involved using a fully trained Stable Diffusion Model with a few carefully crafted prompts to approximate our training images. This approach allowed us to evaluate the potential visual quality we could achieve, even though the generated images did not perfectly capture all the specific features of our training data.
 
 ## Fine Tuned Models
 
