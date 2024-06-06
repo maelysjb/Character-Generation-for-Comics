@@ -50,14 +50,17 @@ We explored available literature and found limited research on comic character g
 
 Our attempt to generate a baseline using a GAN with just 6 images demonstrated the inadequacy of this approach. The model failed to converge, highlighting the necessity for alternative methods or larger datasets.
 
+<img width="625" alt="GAN_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/0a9c7657-b7d2-464a-aa6e-0ca24300ba40">
 <img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/4b4bae90-36ad-40e8-91ac-8be6219b89dc" width="100"> 
 
 **Diffusion Model** 
 
 Our next attempt at establishing a baseline involved training a full diffusion model, which operates through a noising and denoising process. While this approach also failed to achieve conclusive results, it occasionally generated a few blue pixels similar to the colors in our training images. This indicated some potential but reamined inconclusive.
 
-<img width="200" alt="diffusion_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/516cbe72-f2d0-42c6-b633-be366272de12">
-<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/5e3d19e8-046f-48b0-8f77-9f20f6ae904e" width="200"> 
+<img width="400" alt="diffusion_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/516cbe72-f2d0-42c6-b633-be366272de12">
+<img width="400" alt="diffusion_graph" src="[https://github.com/maelysjb/Comics-GenAI/assets/145024696/abfd1e90-2eaf-4c29-91fb-4e150f91131e](https://github.com/maelysjb/Comics-GenAI/assets/145024696/a7d07244-a28e-401f-94e1-0cede2fc0c28)">
+
+ 
 
 **Stable Diffusion Model** 
 
@@ -67,9 +70,13 @@ Our final attempt at establishing a baseline involved using a fully trained Stab
 
 **DreamBooth Model** 
 
+<img width="804" alt="Dream_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/2eff1455-3e96-41ff-8310-722698ee8752">
+
 **LoRA Model** 
 
 **DreamBooth + LoRA Model** 
+
+<img width="873" alt="dreamLora_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d3539727-022e-4d0c-8d7f-1d95ab72851d">
 
 ## Tuning the DreamBooth + LoRA Model 
 
