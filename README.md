@@ -95,12 +95,6 @@ Our final attempt at establishing a baseline involved using a fully trained Stab
 ## How to navigate the repository
 ```bash 
 ├── 1. Data
-│   ├── sks-01.jpg
-│   ├── sks-02.jpg
-│   ├── sks-03.jpg
-│   ├── sks-04.jpg
-│   ├── sks-05.jpg
-│   └── sks-06.jpg
 ├── 2. Descriptive Statistics
 │   ├── Image_DataOverview.ipynb
 │   ├── Image_ColorBreakdown.ipynb
