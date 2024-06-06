@@ -57,8 +57,8 @@ Our attempt to generate a baseline using a GAN with just 6 images demonstrated t
 
 Our next attempt at establishing a baseline involved training a full diffusion model, which operates through a noising and denoising process. While this approach also failed to achieve conclusive results, it occasionally generated a few blue pixels similar to the colors in our training images. This indicated some potential but reamined inconclusive.
 
-<img width="400" alt="diffusion_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/516cbe72-f2d0-42c6-b633-be366272de12">
-<img width="400" alt="diffusion_graph" src="[https://github.com/maelysjb/Comics-GenAI/assets/145024696/abfd1e90-2eaf-4c29-91fb-4e150f91131e](https://github.com/maelysjb/Comics-GenAI/assets/145024696/a7d07244-a28e-401f-94e1-0cede2fc0c28)">
+<img width="450" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/516cbe72-f2d0-42c6-b633-be366272de12">
+<img width="400" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/a7d07244-a28e-401f-94e1-0cede2fc0c28">
 
  
 
