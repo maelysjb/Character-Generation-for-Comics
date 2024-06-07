@@ -82,10 +82,6 @@ Our final attempt at establishing a baseline involved using a fully trained Stab
 
 <img width="300" alt="dreamLora_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d3539727-022e-4d0c-8d7f-1d95ab72851d">
 
-
-
-For more information on the intricacies of the DreamBooth, LoRA and DreamBooth + LoRA techniques, we encourage you to read over our comprehensive report. You can find our report here:  [5. Documents ](https://github.com/maelysjb/Comics-GenAI/blob/main/5.%20Documents/Latex%20Report/Thesis_Masters_GENAI.pdf)
-
 ## Tuning the DreamBooth + LoRA Model 
 
 **Training Steps** 
