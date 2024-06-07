@@ -90,7 +90,11 @@ Our final attempt at establishing a baseline involved using a fully trained Stab
 
 **Learning Rate** 
 
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/143039813/22ec201c-2679-463d-b942-c4810a4489f9" width="300"> 
+
 **Inference Steps** 
+
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/143039813/03c84ba0-dc41-490d-882e-321f68169576" width="300"> 
 
 ## How to navigate the repository
 ```bash 
