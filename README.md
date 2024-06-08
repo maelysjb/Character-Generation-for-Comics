@@ -85,8 +85,8 @@ Additionally, we implemented the Low-Rank Adaptation Technique (LoRA), which was
 <img width="400" alt="LoRA_image" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d8bb2b15-99fd-4148-8725-afb2d4ddbd75">
 
 1. **Using LoRA for Efficient Stable Diffusion Fine-Tuning** 
-January 26, 2023 by Pedro Cuenca and Sayak Paul 
-[Read the Article](https://huggingface.co/blog/lora)
+   January 26, 2023 by Pedro Cuenca and Sayak Paul 
+   [Read the Article](https://huggingface.co/blog/lora)
 
 **DreamBooth + LoRA Model** 
 
@@ -107,6 +107,7 @@ Lastly, we implemented a DreamBooth with LoRA fine-tuning, which offers notable 
 **Inference Steps** 
 
 <img src="https://github.com/maelysjb/Comics-GenAI/assets/143039813/03c84ba0-dc41-490d-882e-321f68169576" width="300"> 
+
 
 
 For further information on the intricacies of any of the above techniques and findings, we invite you to read our comprehensive report. It provides an in-depth examination of our thesis real world applications, detailed explanations of tuning methods, and extensive insights into our findings! Access our full report here:  [5. Documents ](https://github.com/maelysjb/Comics-GenAI/blob/main/5.%20Documents/Latex%20Report/Thesis_Masters_GENAI.pdf)
