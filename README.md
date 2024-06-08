@@ -74,13 +74,25 @@ Our final attempt at establishing a baseline involved using a fully trained Stab
 
 **DreamBooth Model** 
 
-<img width="300" alt="Dream_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/2eff1455-3e96-41ff-8310-722698ee8752">
+We began by implementing the DreamBooth training technique which enables us to teach a new concept to a Stable Diffusion model through fine-tuning. This method entails adjusting the weights of a complete diffusion model while training it on a small set of images alongside a text embedding. Essentially, the method operates by converting prompts into text embeddings, introducing noise to the images, and directing the model to denoise them based on the provided concept. Through an iterative refinement process, the model's structure is honed until it effectively grasps the association. Ultimately, this enables the model to recognize and link the unique identifier “UnicornGirl” from the prompt with the associated image data.
+
+<img width="400" alt="Dream_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/2eff1455-3e96-41ff-8310-722698ee8752">
 
 **LoRA Model** 
 
+Additionally, we implemented the Low-Rank Adaptation Technique (LoRA), which was developed to address the challenge of fine-tuning large language models. When applied in the context of Stable Diffusion, this technique focuses on adapting only certain parts of the neural network. LoRA gets applied to the cross-attention layers that link our image data with the textual prompts. This allows our diffusion model to recognize new words as distinct concepts, enhancing its performance without altering its underlying structure and existing knowledge, and without the need to retrain all the weights each time. 
+
+<img width="400" alt="LoRA_image" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d8bb2b15-99fd-4148-8725-afb2d4ddbd75">
+
+1. **Using LoRA for Efficient Stable Diffusion Fine-Tuning** 
+January 26, 2023 by Pedro Cuenca and Sayak Paul 
+[Read the Article](https://huggingface.co/blog/lora)
+
 **DreamBooth + LoRA Model** 
 
-<img width="300" alt="dreamLora_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d3539727-022e-4d0c-8d7f-1d95ab72851d">
+Lastly, we implemented a DreamBooth with LoRA fine-tuning, which offers notable advantages by incorporating additional trainable layers to the DreamBooth model without altering the original weights. During the fine-tuning process, both DreamBooth and LoRA weights are iteratively adjusted to better align with the targeted concept. DreamBooth weights are refined to enhance the model's capacity in associating the concept with the provided prompt and image data. Meanwhile, the LoRA weights are utilized to selectively adjust the significance of various features within the model, enabling it to focus more effectively on the nuances of the specific concept. Through this combined training process, the model progressively improves its ability to denoise images and associate the unique identifier with the represented concept. 
+
+<img width="400" alt="dreamLora_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d3539727-022e-4d0c-8d7f-1d95ab72851d">
 
 ## Tuning the DreamBooth + LoRA Model 
 
@@ -95,6 +107,9 @@ Our final attempt at establishing a baseline involved using a fully trained Stab
 **Inference Steps** 
 
 <img src="https://github.com/maelysjb/Comics-GenAI/assets/143039813/03c84ba0-dc41-490d-882e-321f68169576" width="300"> 
+
+
+For further information on the intricacies of any of the above techniques and findings, we invite you to read our comprehensive report. It provides an in-depth examination of our thesis real world applications, detailed explanations of tuning methods, and extensive insights into our findings! Access our full report here:  [5. Documents ](https://github.com/maelysjb/Comics-GenAI/blob/main/5.%20Documents/Latex%20Report/Thesis_Masters_GENAI.pdf)
 
 ## How to navigate the repository
 ```bash 
