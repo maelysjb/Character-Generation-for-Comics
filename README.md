@@ -84,10 +84,11 @@ Additionally, we implemented the Low-Rank Adaptation Technique (LoRA), which was
 
 <img width="400" alt="LoRA_image" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d8bb2b15-99fd-4148-8725-afb2d4ddbd75">
 
-1. **Using LoRA for Efficient Stable Diffusion Fine-Tuning** 
-   January 26, 2023 by Pedro Cuenca and Sayak Paul 
+1. **Using LoRA for Efficient Stable Diffusion Fine-Tuning**  by Pedro Cuenca and Sayak Paul   
+   January 26, 2023   
    [Read the Article](https://huggingface.co/blog/lora)
 
+   
 **DreamBooth + LoRA Model** 
 
 Lastly, we implemented a DreamBooth with LoRA fine-tuning, which offers notable advantages by incorporating additional trainable layers to the DreamBooth model without altering the original weights. During the fine-tuning process, both DreamBooth and LoRA weights are iteratively adjusted to better align with the targeted concept. DreamBooth weights are refined to enhance the model's capacity in associating the concept with the provided prompt and image data. Meanwhile, the LoRA weights are utilized to selectively adjust the significance of various features within the model, enabling it to focus more effectively on the nuances of the specific concept. Through this combined training process, the model progressively improves its ability to denoise images and associate the unique identifier with the represented concept. 
