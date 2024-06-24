@@ -84,7 +84,7 @@ We began by implementing the DreamBooth training technique which enables us to t
 Additionally, we implemented the Low-Rank Adaptation Technique (LoRA), which was developed to address the challenge of fine-tuning large language models. When applied in the context of Stable Diffusion, this technique focuses on adapting only certain parts of the neural network. LoRA gets applied to the cross-attention layers that link our image data with the textual prompts. This allows our diffusion model to recognize new words as distinct concepts, enhancing its performance without altering its underlying structure and existing knowledge, and without the need to retrain all the weights each time. 
 
 <img width="400" alt="LoRA_image" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d8bb2b15-99fd-4148-8725-afb2d4ddbd75">
-<img width="250" alt="LoRA_Generated_Imgae" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/878889e8-7544-4846-ba44-5bb7cd5e44b0">
+<img width="200" alt="LoRA_Generated_Imgae" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/878889e8-7544-4846-ba44-5bb7cd5e44b0">
 
 1. **Using LoRA for Efficient Stable Diffusion Fine-Tuning**  by Pedro Cuenca and Sayak Paul   
    January 26, 2023   
