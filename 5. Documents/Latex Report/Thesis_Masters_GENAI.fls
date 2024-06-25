@@ -1,9 +1,9 @@
-PWD /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report
+PWD /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report
 INPUT /usr/local/texlive/2021/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.tex
-OUTPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.log
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.tex
+OUTPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.log
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
@@ -577,10 +577,10 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.de
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.aux
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.aux
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.aux
-OUTPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.aux
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.aux
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.aux
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.aux
+OUTPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.aux
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
@@ -648,13 +648,13 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
-OUTPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.bcf
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.bbl
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.bbl
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.bbl
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.bbl
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.bbl
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.bbl
+OUTPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.bcf
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.bbl
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.bbl
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.bbl
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.bbl
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.bbl
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.bbl
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -726,29 +726,29 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestri
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT /usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
-OUTPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.pdf
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
-OUTPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
+OUTPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.pdf
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
+OUTPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/bse_logo.png
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/bse_logo.png
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/bse_logo.png
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/bse_logo.png
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/bse_logo.png
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/bse_logo.png
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/bse_logo.png
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/bse_logo.png
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/bse_logo.png
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/bse_logo.png
 INPUT /usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
@@ -776,16 +776,16 @@ INPUT /usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/bse_logo.png
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/bse_logo.png
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/bse_logo.png
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/bse_logo.png
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/bse_logo.png
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/bse_logo.png
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/bse_logo.png
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/bse_logo.png
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.aux
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out
-INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.run.xml
-OUTPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.run.xml
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.aux
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out
+INPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.run.xml
+OUTPUT /Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.run.xml
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb

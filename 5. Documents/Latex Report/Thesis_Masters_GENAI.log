@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.22)  13 MAY 2024 18:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.22)  25 JUN 2024 11:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.tex"
-(/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.tex
+**"/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.tex"
+(/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -498,7 +498,7 @@ Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footer
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count419
 \l__pdf_internal_box=\box51
-) (/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.aux)
+) (/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.aux)
 \openout1 = `Thesis_Masters_GENAI.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -559,7 +559,7 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Thesis_Masters_GENAI.bbl' found.
- (/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.bbl)
+ (/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.bbl)
 Package biblatex Info: Reference section=0 on input line 36.
 Package biblatex Info: Reference segment=0 on input line 36.
 
@@ -635,7 +635,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 36.
 LaTeX Info: Redefining \pageref on input line 36.
 LaTeX Info: Redefining \nameref on input line 36.
- (/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out) (/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.out)
+ (/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out) (/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.out)
 \@outlinefile=\write4
 \openout4 = `Thesis_Masters_GENAI.out'.
 
@@ -646,7 +646,7 @@ Package pdftex.def Info: bse_logo.png  used on input line 61.
 (pdftex.def)             Requested size: 182.09486pt x 89.06424pt.
  [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/bse_logo.png>]
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/bse_logo.png>]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 81.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -663,7 +663,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
 <to be read again> 
                    \relax 
 l.84 \end{document}
-                    [1] (/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.aux)
+                    [1] (/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.aux)
 Package rerunfilecheck Info: File `Thesis_Masters_GENAI.out' has not changed.
 (rerunfilecheck)             Checksum: 9814C2D956916ADB9290ECA4E25C967A;103.
 Package logreq Info: Writing requests to 'Thesis_Masters_GENAI.run.xml'.
@@ -672,14 +672,14 @@ Package logreq Info: Writing requests to 'Thesis_Masters_GENAI.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  17537 strings out of 478994
- 297287 string characters out of 5858184
+ 297332 string characters out of 5858184
  1086392 words of memory out of 5000000
  34809 multiletter control sequences out of 15000+600000
  410539 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,15n,74p,824b,4823s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,15n,74p,827b,4823s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/Documents/Latex Report/Thesis_Masters_GENAI.pdf" (2 pages, 68964 bytes).
+Output written on "/Users/maelys/Desktop/BSE/Thesis/Comics-GenAI/5. Documents/Latex Report/Thesis_Masters_GENAI.pdf" (2 pages, 68048 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
