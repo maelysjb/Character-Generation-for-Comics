@@ -134,7 +134,8 @@ For further information on the intricacies of any of the above techniques and fi
 │   │   ├── DreamBooth_Inference.ipynb
 │   │   └── DreamBooth_GoogleColab.ipynb
 │   ├── LoRA
-│   │   └──LoRA.ipynb
+│   │   ├── LoRA-Inference.ipynb
+│   │   └── LoRA.ipynb
 │   └── DreamBooth-LoRA
 │   │   ├── DreamBooth-LoRA.ipynb
 │   │   └── DreamBooth-LoRA-Inference.ipynb
