@@ -109,9 +109,12 @@ Lastly, we implemented a DreamBooth with LoRA fine-tuning, which offers notable 
 
 <img src="https://github.com/maelysjb/Comics-GenAI/assets/143039813/03c84ba0-dc41-490d-882e-321f68169576" width="300"> 
 
+## Comic Book 
+<img src="https://github.com/maelysjb/Character-Generation-for-Comics/assets/145024696/0e1cf4f5-48a5-45dd-a323-da0aa79c928e" width="300"> 
+<img src="https://github.com/maelysjb/Character-Generation-for-Comics/assets/145024696/af3d133d-3af8-4fa1-b228-0e4fea649f7f" width="300"> 
 
 
-For further information on the intricacies of any of the above techniques and findings, we invite you to read our comprehensive report. It provides an in-depth examination of our thesis real world applications, detailed explanations of tuning methods, and extensive insights into our findings! Access our full report here:  [5. Documents ](https://github.com/maelysjb/Comics-GenAI/blob/main/5.%20Documents/Latex%20Report/Thesis_Masters_GENAI.pdf)
+For further information on the intricacies of any of the above techniques and findings, we invite you to read our comprehensive report. It provides an in-depth examination of our thesis real world applications, detailed explanations of tuning methods, and extensive insights into our findings! Access our documents here:  [5. Documents ](https://github.com/maelysjb/Character-Generation-for-Comics/tree/main/5.%20Documents)
 
 ## How to navigate the repository
 ```bash 
