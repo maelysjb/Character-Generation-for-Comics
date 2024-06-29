@@ -140,8 +140,6 @@ For further information on the intricacies of any of the above techniques and fi
 │   │   ├── DreamBooth-LoRA.ipynb
 │   │   └── DreamBooth-LoRA-Inference.ipynb
 ├── 5. Documents
-│   ├── Latex Report
-│   │   └── Thesis_Masters_GENAI.tex
 │   ├── Report.pdf
 │   └── Presentation.pdf
 ├── 6. Generated Images
