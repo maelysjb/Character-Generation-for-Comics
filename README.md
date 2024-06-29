@@ -99,15 +99,15 @@ Lastly, we implemented a DreamBooth with LoRA fine-tuning, which offers notable 
 
 **Training Steps** 
 
-<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/f122b751-fa60-44c7-9b87-f0192e65b9f5" width="300"> 
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/f122b751-fa60-44c7-9b87-f0192e65b9f5" width="400"> 
 
 **Learning Rate** 
 
-<img src="https://github.com/maelysjb/Comics-GenAI/assets/143039813/22ec201c-2679-463d-b942-c4810a4489f9" width="300"> 
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/143039813/22ec201c-2679-463d-b942-c4810a4489f9" width="450"> 
 
 **Inference Steps** 
 
-<img src="https://github.com/maelysjb/Comics-GenAI/assets/143039813/03c84ba0-dc41-490d-882e-321f68169576" width="300"> 
+<img src="https://github.com/maelysjb/Comics-GenAI/assets/143039813/03c84ba0-dc41-490d-882e-321f68169576" width="400"> 
 
 ## Comic Book 
 <img src="https://github.com/maelysjb/Character-Generation-for-Comics/assets/145024696/0e1cf4f5-48a5-45dd-a323-da0aa79c928e" width="300"> 
