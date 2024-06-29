@@ -76,15 +76,15 @@ Our final attempt at establishing a baseline involved using a fully trained Stab
 
 We began by implementing the DreamBooth training technique which enables us to teach a new concept to a Stable Diffusion model through fine-tuning. This method entails adjusting the weights of a complete diffusion model while training it on a small set of images alongside a text embedding. Essentially, the method operates by converting prompts into text embeddings, introducing noise to the images, and directing the model to denoise them based on the provided concept. Through an iterative refinement process, the model's structure is honed until it effectively grasps the association. Ultimately, this enables the model to recognize and link the unique identifier “UnicornGirl” from the prompt with the associated image data.
 
-<img width="400" alt="Dream_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/2eff1455-3e96-41ff-8310-722698ee8752">
+<img width="400" alt="Dream_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/984989cf-06d7-4714-b771-adb4f08c0db0">
 <img width="250" alt="DREAMBOOTH_Image_Generated" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/bcfc8ffd-d137-4d7c-8637-00fa312e576e">
 
 **LoRA Model** 
 
 Additionally, we implemented the Low-Rank Adaptation Technique (LoRA), which was developed to address the challenge of fine-tuning large language models. When applied in the context of Stable Diffusion, this technique focuses on adapting only certain parts of the neural network. LoRA gets applied to the cross-attention layers that link our image data with the textual prompts. This allows our diffusion model to recognize new words as distinct concepts, enhancing its performance without altering its underlying structure and existing knowledge, and without the need to retrain all the weights each time. 
 
-<img width="400" alt="LoRA_image" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/d3539727-022e-4d0c-8d7f-1d95ab72851d">
-<img width="200" alt="LoRA_Generated_Imgae" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/878889e8-7544-4846-ba44-5bb7cd5e44b0">
+<img width="400" alt="LoRA_image" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/4ff2de04-357a-4b2f-85e9-21f4b3474c4d">
+<img width="250" alt="LoRA_Generated_Imgae" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/878889e8-7544-4846-ba44-5bb7cd5e44b0">
 
 
 **DreamBooth + LoRA Model** 
