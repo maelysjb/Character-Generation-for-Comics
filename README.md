@@ -77,7 +77,7 @@ Our final attempt at establishing a baseline involved using a fully trained Stab
 We began by implementing the DreamBooth training technique which enables us to teach a new concept to a Stable Diffusion model through fine-tuning. This method entails adjusting the weights of a complete diffusion model while training it on a small set of images alongside a text embedding. Essentially, the method operates by converting prompts into text embeddings, introducing noise to the images, and directing the model to denoise them based on the provided concept. Through an iterative refinement process, the model's structure is honed until it effectively grasps the association. Ultimately, this enables the model to recognize and link the unique identifier “UnicornGirl” from the prompt with the associated image data.
 
 <img width="400" alt="Dream_graph" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/984989cf-06d7-4714-b771-adb4f08c0db0">
-<img width="275" alt="DREAMBOOTH_Image_Generated" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/bcfc8ffd-d137-4d7c-8637-00fa312e576e">
+<img width="270" alt="DREAMBOOTH_Image_Generated" src="https://github.com/maelysjb/Comics-GenAI/assets/145024696/bcfc8ffd-d137-4d7c-8637-00fa312e576e">
 
 **LoRA Model** 
 
