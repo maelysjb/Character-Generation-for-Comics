@@ -143,10 +143,10 @@ For further information on the intricacies of any of the above techniques and fi
 │   │   ├── DreamBooth-LoRA.ipynb
 │   │   └── DreamBooth-LoRA-Inference.ipynb
 ├── 5. Documents
-│   ├── Comic Story Board.pdf
-│   ├── Comic Strip.pdf
-│   ├── Presentation.pdf 
-│   └── Report.pdf
+│   ├── Comic Story Board
+│   ├── Comic Strip
+│   ├── Presentation
+│   └── Report
 ├── 6. Generated Images
 │   ├── DreamBooth
 │   ├── DreamBooth-LoRA
